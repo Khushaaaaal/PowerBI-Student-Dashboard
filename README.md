@@ -1,4 +1,4 @@
-##📊 Student Performance Dashboard - Microsoft Power BI
+## 📊 Student Performance Dashboard - Microsoft Power BI
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
