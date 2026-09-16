@@ -44,3 +44,4 @@ Here are some of the core DAX formulas used in this project:
 **1. Average Score:**
 ```dax
 Average = DIVIDE([Total], 5)
+Percentage = DIVIDE([Total], 500) * 100
